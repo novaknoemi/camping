@@ -1,0 +1,83 @@
+body{
+    background-color: #DDFFFF;
+    columns: #004400;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 2px auto;
+}
+
+#tenisz{
+    float:left;
+    height: 100px;
+    margin-right: 20px;
+    align-items: center;
+}
+
+h5{
+    align-items: center;
+}
+
+table{
+    width:20%;
+    background-color: #DDFFFF;
+    widows: 670px;
+    border:none;
+    margin:2pt;
+    color:black;
+    18AE54 height: 60pt;
+    margin:2pt;
+    padding:2pt;
+    text-align:center;
+}
+{
+    border:black 4px;
+}
+
+#szallas{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#h3{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#egyeb{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#sotet{
+    background-color: #18AE54;
+}
+
+#menu{
+    width: 20%;
+    background-color: white;
+    width: 670px;
+    border:none;
+    margin: 2pt;
+    padding: 2pt;
+    color:black;
+    border: black;
+}
+
+#vilagos{
+    background-color:lightgreen;
+}
+
+hr{
+    color: darkgreen;
+}
+
+h6{
+    background-color: lightgreen;
+    text-transform: uppercase;
+    front-size:30px;
+    color: #004400;
+    border: black 3px;
+    text-align: center;
+    width: 20%;
+    margin: 5px;
+    
+}
